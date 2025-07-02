@@ -32,6 +32,8 @@ h1{
 }
 img{
     height: 200px;
+    weidth:200px;
+    alt:"my image";
 }
 main{
     padding: 20px;
